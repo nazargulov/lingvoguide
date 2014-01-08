@@ -1,2 +1,3 @@
 lingvoguide
 ===========
+speak english.
