@@ -15,10 +15,7 @@ class MainController extends AbstractActionController
 {
     public function indexAction()
     {
-        if ($this->zfcUserAuthentication()->hasIdentity()) {
-            return array();
-        }
-        return $this->redirect()->toRoute('application');
+        return array();
     }
 
     public function fooAction()
