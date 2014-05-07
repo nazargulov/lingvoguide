@@ -14,7 +14,9 @@
         <?php echo $this->headLink(array('rel' => 'shortcut icon', 'type' => 'image/vnd.microsoft.icon', 'href' => $this->basePath() . '/img/favicon.ico'))
                         ->prependStylesheet($this->basePath() . '/css/style.css')
                         ->prependStylesheet($this->basePath() . '/css/bootstrap-theme.min.css')
-                        ->prependStylesheet($this->basePath() . '/css/bootstrap.min.css') ?>
+                        ->prependStylesheet($this->basePath() . '/css/bootstrap.min.css')
+                        ->prependStylesheet($this->basePath() . '/css/topcoat-mobile-onsen-ios7.css')
+        ?>
 
         <!-- Scripts -->
         <?php echo $this->headScript()
@@ -45,7 +47,7 @@
                 </div><!--/.nav-collapse -->
             </div>
         </nav>
-        <div class="container">
+        <div class="container-fluid">
             <?php //echo $this->zfcUserLoginWidget(); ?>
             <?php echo $this->content; ?>
             <hr>
