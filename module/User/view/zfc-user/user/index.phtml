@@ -1,0 +1,42 @@
+<?php
+$url = $this->url('user/default', array('controller' => 'index', 'action' => 'index'));
+echo '<a href="'.$url.'">Личка</a>';
+$form = $this->form;
+if (!empty($form)) :
+    $form->setAttribute('action', $url);
+    $form->prepare();
+?>
+<?= $this->form()->openTag($form); ?>
+<?= $this->formHidden($form->get('id')); ?>
+<?= $this->formHidden($form->get('userId')); ?>
+    <div class="row-fluid">
+        <div class="col-md-12">
+            <?php if(!$this->zfcUserIdentity()): ?>
+                <img src="http://placehold.it/300x200" class="img-rounded">
+            <?php else: ?>
+                <?= $this->gravatar($this->zfcUserIdentity()->getEmail()); ?>
+            <?php endif?>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="col-md-3"><?= $this->formLabel($form->get('name')); ?></div>
+        <div class="col-md-9"><?= $this->formInput($form->get('name')); ?></div>
+    </div>
+    <div class="row-fluid">
+        <div class="col-md-3"><?= $this->formLabel($form->get('email')); ?></div>
+        <div class="col-md-9"><?= $this->formInput($form->get('email')); ?></div>
+    </div>
+    <div class="row-fluid">
+        <div class="col-md-3"><?= $this->formLabel($form->get('phone')); ?></div>
+        <div class="col-md-9"><?= $this->formInput($form->get('phone')); ?></div>
+    </div>
+    <div class="row-fluid">
+        <div class="col-md-3"><?= $this->formLabel($form->get('levelLanguage')); ?></div>
+        <div class="col-md-9"><?= $this->formInput($form->get('levelLanguage')); ?></div>
+    </div>
+    <div class="row-fluid">
+        <div class="col-md-12"><?= $this->formSubmit($form->get('submit')); ?></div>
+    </div>
+<?= $this->form()->closeTag();
+endif;
+?>

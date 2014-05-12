@@ -13,6 +13,7 @@ return array(
         // Custom module
         'User',
         'Secret',
+        'Meeting',
     ),
 
     // These are various options for the listeners attached to the ModuleManager
