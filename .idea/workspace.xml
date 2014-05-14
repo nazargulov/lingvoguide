@@ -2,49 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="959f90b7-ecec-4b43-867b-e18eb78a8633" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/User/view/zfc-user/user/index.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.phar" afterPath="$PROJECT_DIR$/composer.phar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-module" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-module" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/hybridauth/hybridauth" afterPath="$PROJECT_DIR$/vendor/hybridauth/hybridauth" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/zf-commons/zfc-user" afterPath="$PROJECT_DIR$/vendor/zf-commons/zfc-user" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Application.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Application.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Tests/ApplicationTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Tests/ApplicationTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Tester/ApplicationTester.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Tester/ApplicationTester.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Input/ArrayInput.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Input/ArrayInput.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Command/Command.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Command/Command.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Tester/CommandTester.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Tester/CommandTester.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Event/ConsoleExceptionEvent.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Event/ConsoleExceptionEvent.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Output/ConsoleOutput.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Output/ConsoleOutput.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Event/ConsoleTerminateEvent.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Event/ConsoleTerminateEvent.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Descriptor/Descriptor.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Descriptor/Descriptor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Helper/DialogHelper.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Helper/DialogHelper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Helper/FormatterHelper.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Helper/FormatterHelper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Helper/Helper.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Helper/Helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Helper/HelperSet.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Helper/HelperSet.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/User/src/User/Controller/IndexController.php" afterPath="$PROJECT_DIR$/module/User/src/User/Controller/IndexController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Input/Input.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Input/Input.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Input/InputArgument.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Input/InputArgument.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Helper/InputAwareHelper.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Helper/InputAwareHelper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Input/InputDefinition.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Input/InputDefinition.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Input/InputInterface.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Input/InputInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Input/InputOption.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Input/InputOption.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Output/Output.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Output/Output.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Formatter/OutputFormatter.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Formatter/OutputFormatter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Formatter/OutputFormatterInterface.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Formatter/OutputFormatterInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Tests/Formatter/OutputFormatterTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Tests/Formatter/OutputFormatterTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Output/OutputInterface.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Output/OutputInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Helper/ProgressHelper.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Helper/ProgressHelper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/User/tests/User/SampleTest.php" afterPath="$PROJECT_DIR$/module/User/tests/User/SampleTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Shell.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Shell.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Output/StreamOutput.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Output/StreamOutput.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Helper/TableHelper.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Helper/TableHelper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/User/tests/User/Framework/TestCase.php" afterPath="$PROJECT_DIR$/module/User/tests/User/Framework/TestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/Meeting.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/Meeting/src/Meeting/Form/MeetingForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/User/src/User/Form/StudentForm.php" afterPath="$PROJECT_DIR$/module/User/src/User/Form/StudentForm.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.config.php" afterPath="$PROJECT_DIR$/config/application.config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Tests/Fixtures/application_renderexception3decorated.txt" afterPath="$PROJECT_DIR$/vendor/symfony/console/Symfony/Component/Console/Tests/Fixtures/application_renderexception3decorated.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/User/view/user/index/index.phtml" afterPath="$PROJECT_DIR$/module/User/view/user/index/index.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/User/config/module.config.php" afterPath="$PROJECT_DIR$/module/User/config/module.config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/Application/view/layout/layout.phtml" afterPath="$PROJECT_DIR$/module/Application/view/layout/layout.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lingvoguide.iws" />
@@ -68,10 +32,84 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="module.config.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module/Meeting/config/module.config.php">
+      <file leaf-file-name="Meeting.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/Meeting.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="10" selection-start="157" selection-end="157" vertical-scroll-proportion="0.11135371" vertical-offset="34" max-vertical-offset="952">
+            <state line="23" column="24" selection-start="395" selection-end="395" vertical-scroll-proportion="-3.7307692" vertical-offset="209" max-vertical-offset="3791">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.phtml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module/User/view/user/index/index.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="10" selection-start="1329" selection-end="1329" vertical-scroll-proportion="0.61275625" vertical-offset="241" max-vertical-offset="748">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/Meeting/view/meeting/main/index.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="36" selection-start="236" selection-end="236" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="850">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MeetingForm.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Form/MeetingForm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="92" column="14" selection-start="2359" selection-end="2359" vertical-scroll-proportion="-0.65384614" vertical-offset="1445" max-vertical-offset="2686">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentForm.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/User/src/User/Form/StudentForm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="57" selection-start="1005" selection-end="1005" vertical-scroll-proportion="-4.269231" vertical-offset="620" max-vertical-offset="1632">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Controller/Main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="22" selection-start="1408" selection-end="1408" vertical-scroll-proportion="-5.730769" vertical-offset="565" max-vertical-offset="2091">
+              <folding>
+                <element signature="e#345#394#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/User/src/User/Controller/IndexController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="8" selection-start="1136" selection-end="1360" vertical-scroll-proportion="-11.0" vertical-offset="258" max-vertical-offset="1819">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MeetingUsers.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="32" selection-start="154" selection-end="154" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="425">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="School.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/School/src/School/Entity/School.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="22" selection-start="56" selection-end="56" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="2363">
               <folding />
             </state>
           </provider>
@@ -97,19 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/module/Secret/view/secret/main/foo.phtml" />
-        <option value="$PROJECT_DIR$/module/Secret/Module.php" />
-        <option value="$PROJECT_DIR$/module/Secret/src/ZendSkeletonModule/Controller/SkeletonController.php" />
-        <option value="$PROJECT_DIR$/module/Secret/tests/bootstrap.php" />
-        <option value="$PROJECT_DIR$/module/Secret/tests/phpunit.xml" />
-        <option value="$PROJECT_DIR$/module/Secret/tests/TestConfiguration.php.dist" />
-        <option value="$PROJECT_DIR$/module/Secret/tests/ZendSkeletonModule/SampleTest.php" />
-        <option value="$PROJECT_DIR$/module/Secret/tests/ZendSkeletonModule/Framework/TestCase.php" />
-        <option value="$PROJECT_DIR$/module/Secret/view/zend-skeleton-module/skeleton/foo.phtml" />
-        <option value="$PROJECT_DIR$/module/Secret/view/zend-skeleton-module/skeleton/index.phtml" />
-        <option value="$PROJECT_DIR$/module/Secret/autoload_classmap.php" />
-        <option value="$PROJECT_DIR$/module/Secret/README.md" />
-        <option value="$PROJECT_DIR$/module/Secret/view/secret/skeleton/index.phtml" />
         <option value="$PROJECT_DIR$/module/Secret/view/secret/skeleton/foo.phtml" />
         <option value="$PROJECT_DIR$/module/Secret/src/Secret/Controller/SkeletonController.php" />
         <option value="$PROJECT_DIR$/module/Secret/config/module.config.php" />
@@ -133,11 +158,8 @@
         <option value="$PROJECT_DIR$/module/User/src/User/Form/UserForm.php" />
         <option value="$PROJECT_DIR$/module/User/src/User/Entity/User.php" />
         <option value="$PROJECT_DIR$/module/User/Module.php" />
-        <option value="$PROJECT_DIR$/module/Application/view/layout/layout.phtml" />
-        <option value="$PROJECT_DIR$/module/User/src/User/Form/StudentForm.php" />
         <option value="$PROJECT_DIR$/module/User/src/User/Entity/Student.php" />
         <option value="$PROJECT_DIR$/module/User/src/User/Controller/IndexController.php" />
-        <option value="$PROJECT_DIR$/module/User/view/user/index/index.phtml" />
         <option value="$PROJECT_DIR$/module/User/view/zfc-user/user/index.phtml" />
         <option value="$PROJECT_DIR$/module/User/config/module.config.php" />
         <option value="$PROJECT_DIR$/module/Meeting/Module.php" />
@@ -146,8 +168,24 @@
         <option value="$PROJECT_DIR$/module/Meeting/src/ZendSkeletonModule/Controller/SkeletonController.php" />
         <option value="$PROJECT_DIR$/module/Meeting/view/zend-skeleton-module/skeleton/foo.phtml" />
         <option value="$PROJECT_DIR$/module/Meeting/view/zend-skeleton-module/skeleton/index.phtml" />
-        <option value="$PROJECT_DIR$/config/application.config.php" />
         <option value="$PROJECT_DIR$/module/Meeting/config/module.config.php" />
+        <option value="$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/Meeting.php" />
+        <option value="$PROJECT_DIR$/module/User/src/User/Entity/Leading.php" />
+        <option value="$PROJECT_DIR$/module/School/Module.php" />
+        <option value="$PROJECT_DIR$/module/School/README.md" />
+        <option value="$PROJECT_DIR$/module/School/autoload_classmap.php" />
+        <option value="$PROJECT_DIR$/module/School/src/School/Entity/School.php" />
+        <option value="$PROJECT_DIR$/module/School/config/module.config.php" />
+        <option value="$PROJECT_DIR$/config/application.config.php" />
+        <option value="$PROJECT_DIR$/module/School/src/School/Controller/Main.php" />
+        <option value="$PROJECT_DIR$/module/School/view/school/main/index.phtml" />
+        <option value="$PROJECT_DIR$/module/Application/view/layout/layout.phtml" />
+        <option value="$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php" />
+        <option value="$PROJECT_DIR$/module/User/src/User/Form/StudentForm.php" />
+        <option value="$PROJECT_DIR$/module/Meeting/src/Meeting/Form/MeetingForm.php" />
+        <option value="$PROJECT_DIR$/module/Meeting/src/Meeting/Controller/Main.php" />
+        <option value="$PROJECT_DIR$/module/Meeting/view/meeting/main/index.phtml" />
+        <option value="$PROJECT_DIR$/module/User/view/user/index/index.phtml" />
       </list>
     </option>
   </component>
@@ -182,6 +220,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -210,7 +249,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -224,51 +267,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
+              <option name="myItemId" value="module" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zf-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zfc-user" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lingvoguide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lingvoguide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zf-commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zfc-user" />
+              <option name="myItemId" value="User" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="view" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zfc-user" />
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="user" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -280,11 +319,79 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
+              <option name="myItemId" value="module" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zf-commons" />
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -338,15 +445,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="meeting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="Meeting" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -376,7 +479,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
+              <option name="myItemId" value="Entity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -394,7 +497,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Meeting" />
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -404,7 +565,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -440,9 +600,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\www\lingvoguide\module\Meeting\src\Meeting\Entity" />
+      <recent name="C:\www\lingvoguide\module\User\src\User\Entity" />
+      <recent name="C:\www\lingvoguide\module\Meeting\src\Meeting\Form" />
       <recent name="C:\www\lingvoguide\module\User\view\zfc-user\user" />
       <recent name="C:\www\lingvoguide\config\autoload" />
-      <recent name="C:\www\lingvoguide\module" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\www\lingvoguide\module\User\view" />
@@ -506,10 +668,10 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3254902" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32421875" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27659574" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28039515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.327451" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -522,8 +684,8 @@
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884902" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -544,9 +706,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2654321" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -570,64 +732,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/init_autoloader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="11" selection-start="961" selection-end="961" vertical-scroll-proportion="0.17819707" vertical-offset="238" max-vertical-offset="867" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/socalnick/scn-social-auth/src/ScnSocialAuth/HybridAuth/Provider/Odnoklassniki.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="503" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/socalnick/scn-social-auth/src/ScnSocialAuth/HybridAuth/Provider/Yandex.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="503" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/socalnick/scn-social-auth/src/ScnSocialAuth/HybridAuth/Provider/GitHub.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="503" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/socalnick/scn-social-auth/src/ScnSocialAuth/HybridAuth/Provider/Vkontakte.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="503" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/autoload/session.local.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="31" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0745614" vertical-offset="0" max-vertical-offset="456" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/socalnick/scn-social-auth/config/scn-social-auth.local.php.dist">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="3995" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3519" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/socalnick/scn-social-auth/autoload_classmap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/autoload/local.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="482" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Secret/src/Secret/Controller/MainController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="23" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="561" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module/Application/view/application/index/index.phtml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="6" selection-start="25" selection-end="25" vertical-scroll-proportion="0.11805555" vertical-offset="0" max-vertical-offset="288" />
@@ -654,11 +758,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/User/tests/TestConfiguration.php.dist">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="39" selection-start="49" selection-end="49" vertical-scroll-proportion="0.084367245" vertical-offset="0" max-vertical-offset="782" />
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/User/.gitignore">
@@ -682,11 +786,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/User/LICENSE.txt">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.23841059" vertical-offset="108" max-vertical-offset="561" />
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/User/README.md">
@@ -724,117 +828,50 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.1155555" vertical-offset="502" max-vertical-offset="952" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/User/Module.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="21" selection-start="1995" selection-end="1995" vertical-scroll-proportion="1.4004576" vertical-offset="306" max-vertical-offset="1224" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/zf-commons/zfc-user/src/ZfcUser/Controller/Plugin/ZfcUserAuthentication.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="6" selection-start="584" selection-end="584" vertical-scroll-proportion="0.14847161" vertical-offset="357" max-vertical-offset="1564" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/User/src/User/Form/StudentForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="27" selection-start="691" selection-end="691" vertical-scroll-proportion="-0.11135371" vertical-offset="612" max-vertical-offset="1666" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Application/view/layout/layout.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="35" selection-start="881" selection-end="881" vertical-scroll-proportion="0.44103774" vertical-offset="102" max-vertical-offset="1122">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/autoload/zfcuser.global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="6" selection-start="724" selection-end="724" vertical-scroll-proportion="-7.7405663" vertical-offset="3673" max-vertical-offset="4097" />
+      </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="6" selection-start="724" selection-end="724" vertical-scroll-proportion="-7.7405663" vertical-offset="3673" max-vertical-offset="4097">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/autoload/scn-social-auth.local.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="183" column="7" selection-start="3693" selection-end="3693" vertical-scroll-proportion="-3.7307692" vertical-offset="3014" max-vertical-offset="3519">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/User/view/user/index/index.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="2" selection-start="235" selection-end="235" vertical-scroll-proportion="0.23340961" vertical-offset="0" max-vertical-offset="748">
-          <folding />
-        </state>
+        <state line="183" column="7" selection-start="3693" selection-end="3693" vertical-scroll-proportion="-3.7307692" vertical-offset="3014" max-vertical-offset="3519" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/autoload/scn-social-auth.global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="219" selection-end="219" vertical-scroll-proportion="0.04009434" vertical-offset="119" max-vertical-offset="3281" />
+      </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="219" selection-end="219" vertical-scroll-proportion="0.04009434" vertical-offset="119" max-vertical-offset="3281">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/User/view/zfc-user/user/index.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="20" selection-start="172" selection-end="172" vertical-scroll-proportion="0.1556064" vertical-offset="0" max-vertical-offset="799">
-          <folding>
-            <marker date="1399664109718" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399664109718" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399664109718" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399664109718" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1399664109718" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="4" column="20" selection-start="172" selection-end="172" vertical-scroll-proportion="0.1556064" vertical-offset="0" max-vertical-offset="799" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/autoload/database.local.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="43" selection-start="369" selection-end="369" vertical-scroll-proportion="0.48253274" vertical-offset="0" max-vertical-offset="782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/User/config/module.config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="25" selection-start="586" selection-end="586" vertical-scroll-proportion="0.48253274" vertical-offset="51" max-vertical-offset="1173">
-          <folding />
-        </state>
+        <state line="13" column="43" selection-start="369" selection-end="369" vertical-scroll-proportion="0.48253274" vertical-offset="0" max-vertical-offset="782" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/Meeting/Module.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="10" selection-start="324" selection-end="324" vertical-scroll-proportion="-3.7307692" vertical-offset="56" max-vertical-offset="850">
-          <folding>
-            <element signature="e#6#312#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Meeting/view/meeting/main/index.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="36" selection-start="84" selection-end="84" vertical-scroll-proportion="0.062730625" vertical-offset="0" max-vertical-offset="271">
-          <folding />
-        </state>
+        <state line="9" column="10" selection-start="324" selection-end="324" vertical-scroll-proportion="-3.7307692" vertical-offset="56" max-vertical-offset="850" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/Meeting/view/meeting/main/foo.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="36" selection-start="84" selection-end="84" vertical-scroll-proportion="0.062730625" vertical-offset="0" max-vertical-offset="271">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Controller/Main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="68" selection-start="697" selection-end="697" vertical-scroll-proportion="0.4686347" vertical-offset="162" max-vertical-offset="459">
-          <folding />
-        </state>
+        <state line="1" column="36" selection-start="84" selection-end="84" vertical-scroll-proportion="0.062730625" vertical-offset="0" max-vertical-offset="271" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/Meeting/README.md">
@@ -846,18 +883,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module/Meeting/autoload_classmap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="2" selection-start="412" selection-end="412" vertical-scroll-proportion="0.40753424" vertical-offset="0" max-vertical-offset="292">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="292" selection-end="292" vertical-scroll-proportion="0.40829694" vertical-offset="0" max-vertical-offset="1377">
-          <folding>
-            <marker date="1399924307578" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="7" column="2" selection-start="412" selection-end="412" vertical-scroll-proportion="0.40753424" vertical-offset="0" max-vertical-offset="292" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/User/src/User/Entity/Student.php">
@@ -869,21 +895,152 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module/User/view/user/index/foo.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.11135371" vertical-offset="0" max-vertical-offset="458">
+        <state line="3" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.11135371" vertical-offset="0" max-vertical-offset="458" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/User/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="21" selection-start="1995" selection-end="1995" vertical-scroll-proportion="1.8406113" vertical-offset="75" max-vertical-offset="1224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/User/config/module.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="16" selection-start="1938" selection-end="2371" vertical-scroll-proportion="0.75545853" vertical-offset="691" max-vertical-offset="1173" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/School/autoload_classmap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="405" selection-end="405" vertical-scroll-proportion="0.27107063" vertical-offset="0" max-vertical-offset="439">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/School/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="299">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/School/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="10" selection-start="323" selection-end="323" vertical-scroll-proportion="0.2072893" vertical-offset="62" max-vertical-offset="850">
+          <folding>
+            <element signature="e#6#311#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Meeting/config/module.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="228" selection-end="228" vertical-scroll-proportion="-3.5" vertical-offset="62" max-vertical-offset="1190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/School/config/module.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="162" selection-end="162" vertical-scroll-proportion="0.2118451" vertical-offset="9" max-vertical-offset="1190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Application/config/module.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1734">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="292" selection-end="292" vertical-scroll-proportion="0.4259681" vertical-offset="0" max-vertical-offset="1394">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/School/view/school/main/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="439">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Application/view/layout/layout.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="59" selection-start="2686" selection-end="2686" vertical-scroll-proportion="0.63615024" vertical-offset="494" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/School/src/School/Controller/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="5" selection-start="722" selection-end="722" vertical-scroll-proportion="0.5808656" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/User/src/User/Form/StudentForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="57" selection-start="1005" selection-end="1005" vertical-scroll-proportion="-4.269231" vertical-offset="620" max-vertical-offset="1632">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Form/MeetingForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="14" selection-start="2359" selection-end="2359" vertical-scroll-proportion="-0.65384614" vertical-offset="1445" max-vertical-offset="2686">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="32" selection-start="154" selection-end="154" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="425">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/User/src/User/Controller/IndexController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="13" selection-start="2667" selection-end="2667" vertical-scroll-proportion="2.5240176" vertical-offset="0" max-vertical-offset="1819">
+        <state line="42" column="8" selection-start="1136" selection-end="1360" vertical-scroll-proportion="-11.0" vertical-offset="258" max-vertical-offset="1819">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/Meeting/config/module.config.php">
+    <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Controller/Main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="10" selection-start="157" selection-end="157" vertical-scroll-proportion="0.11135371" vertical-offset="34" max-vertical-offset="952">
+        <state line="48" column="22" selection-start="1408" selection-end="1408" vertical-scroll-proportion="-5.730769" vertical-offset="565" max-vertical-offset="2091">
+          <folding>
+            <element signature="e#345#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/School/src/School/Entity/School.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="22" selection-start="56" selection-end="56" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="2363">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/Meeting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="24" selection-start="395" selection-end="395" vertical-scroll-proportion="-3.7307692" vertical-offset="209" max-vertical-offset="3791">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Meeting/view/meeting/main/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="36" selection-start="236" selection-end="236" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/User/view/user/index/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="10" selection-start="1329" selection-end="1329" vertical-scroll-proportion="0.61275625" vertical-offset="241" max-vertical-offset="748">
           <folding />
         </state>
       </provider>

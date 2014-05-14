@@ -55,7 +55,6 @@ class StudentForm extends Form {
             'name' => 'levelLanguage',
             'attributes' => array(
                 'type'  => 'range',
-                'placeholder' => 'type your level...',
                 'object_manager' => $this->em,
                 'target_class' => 'User\Entity\Student',
                 'class' => 'topcoat-range',
@@ -63,7 +62,7 @@ class StudentForm extends Form {
                 'max' => '5',
             ),
             'options' => array(
-                'label' => 'Level',
+                'label' => 'Уровень',
             ),
         ));
 
