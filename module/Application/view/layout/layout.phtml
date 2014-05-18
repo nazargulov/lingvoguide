@@ -49,13 +49,17 @@
                 </div><!--/.nav-collapse -->
             </div>
         </nav>
-        <div class="container-fluid">
+        <div class="container">
             <?php //echo $this->zfcUserLoginWidget(); ?>
-            <?php echo $this->content; ?>
+            <div class="row">
+                <?php echo $this->content; ?>
+            </div>
             <hr>
-            <footer>
-                <p>&copy; 2014 - <?php echo date('Y') ?> by Lingvoguides Ltd. <?php echo $this->translate('All rights reserved.') ?></p>
-            </footer>
+            <div class="row">
+                <footer>
+                    <p>&copy; 2014 - <?php echo date('Y') ?> by Lingvoguides Ltd. <?php echo $this->translate('All rights reserved.') ?></p>
+                </footer>
+            </div>
         </div> <!-- /container -->
         <?php echo $this->inlineScript() ?>
     </body>

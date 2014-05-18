@@ -7,39 +7,39 @@ $form->prepare();
 ?>
 <?= $this->form()->openTag($form); ?>
 <?= $this->formHidden($form->get('id')); ?>
-<div class="row-fluid">
-    <div class="col-md-4"><img src="http://placehold.it/300x200" class="img-rounded"></div>
-    <div class="col-md-8"><?= $this->formInput($form->get('school')); ?></div>
+<div class="row">
+    <div class="col-md-6"><img src="http://placehold.it/200x100" class="img-rounded"></div>
+    <div class="col-md-6"><img src="http://placehold.it/200x100" class="img-rounded"></div>
 </div>
-<div class="row-fluid">
-    <div class="col-md-4"><img src="http://placehold.it/300x200" class="img-rounded"></div>
-    <div class="col-md-8"><?= $this->formInput($form->get('leading')); ?></div>
+<div class="row">
+    <div class="col-md-6"><?= $this->formInput($form->get('leading')); ?></div>
+    <div class="col-md-6"><?= $this->formInput($form->get('school')); ?></div>
 </div>
-<div class="row-fluid">
+<div class="row">
     <div class="col-md-4"><?= $this->formLabel($form->get('name')); ?></div>
     <div class="col-md-8"><?= $this->formInput($form->get('name')); ?></div>
 </div>
-<div class="row-fluid">
+<div class="row">
     <div class="col-md-4"><?= $this->formLabel($form->get('about')); ?></div>
     <div class="col-md-8"><?= $this->formTextarea($form->get('about')); ?></div>
 </div>
-<div class="row-fluid">
+<div class="row">
     <div class="col-md-4"><?= $this->formLabel($form->get('timeStart')); ?></div>
     <div class="col-md-8"><?= $this->formDateTime($form->get('timeStart')); ?></div>
 </div>
-<div class="row-fluid">
+<div class="row">
     <div class="col-md-4"><?= $this->formLabel($form->get('timeStop')); ?></div>
     <div class="col-md-8"><?= $this->formDateTime($form->get('timeStop')); ?></div>
 </div>
-<div class="row-fluid">
+<div class="row">
     <div class="col-md-4"><?= $this->formLabel($form->get('address')); ?></div>
     <div class="col-md-8"><?= $this->formTextarea($form->get('address')); ?></div>
 </div>
-<div class="row-fluid">
+<div class="row">
     <div class="col-md-4"><?= $this->formLabel($form->get('levelLanguage')); ?></div>
     <div class="col-md-8"><?= $this->formInput($form->get('levelLanguage')); ?></div>
 </div>
-<div class="row-fluid">
+<div class="row">
     <div class="col-md-12"><?= $this->formSubmit($form->get('submit')); ?></div>
 </div>
 <?= $this->form()->closeTag(); ?>

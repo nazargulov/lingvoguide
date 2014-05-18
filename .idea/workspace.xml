@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="959f90b7-ecec-4b43-867b-e18eb78a8633" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/Meeting.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/Meeting/src/Meeting/Form/MeetingForm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/User/src/User/Form/StudentForm.php" afterPath="$PROJECT_DIR$/module/User/src/User/Form/StudentForm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.config.php" afterPath="$PROJECT_DIR$/config/application.config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php" afterPath="$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/Meeting/view/meeting/main/index.phtml" afterPath="$PROJECT_DIR$/module/Meeting/view/meeting/main/index.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/User/view/user/index/index.phtml" afterPath="$PROJECT_DIR$/module/User/view/user/index/index.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/Application/view/layout/layout.phtml" afterPath="$PROJECT_DIR$/module/Application/view/layout/layout.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -35,16 +32,7 @@
       <file leaf-file-name="Meeting.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/Meeting.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="24" selection-start="395" selection-end="395" vertical-scroll-proportion="-3.7307692" vertical-offset="209" max-vertical-offset="3791">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.phtml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module/User/view/user/index/index.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="10" selection-start="1329" selection-end="1329" vertical-scroll-proportion="0.61275625" vertical-offset="241" max-vertical-offset="748">
+            <state line="23" column="24" selection-start="395" selection-end="395" vertical-scroll-proportion="3.2692308" vertical-offset="391" max-vertical-offset="3791">
               <folding />
             </state>
           </provider>
@@ -53,7 +41,7 @@
       <file leaf-file-name="index.phtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module/Meeting/view/meeting/main/index.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="36" selection-start="236" selection-end="236" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="850">
+            <state line="8" column="21" selection-start="317" selection-end="317" vertical-scroll-proportion="-3.2692308" vertical-offset="51" max-vertical-offset="850">
               <folding />
             </state>
           </provider>
@@ -62,7 +50,7 @@
       <file leaf-file-name="MeetingForm.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Form/MeetingForm.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="14" selection-start="2359" selection-end="2359" vertical-scroll-proportion="-0.65384614" vertical-offset="1445" max-vertical-offset="2686">
+            <state line="105" column="0" selection-start="2793" selection-end="2793" vertical-scroll-proportion="-49.692307" vertical-offset="391" max-vertical-offset="2686">
               <folding />
             </state>
           </provider>
@@ -71,7 +59,7 @@
       <file leaf-file-name="StudentForm.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module/User/src/User/Form/StudentForm.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="57" selection-start="1005" selection-end="1005" vertical-scroll-proportion="-4.269231" vertical-offset="620" max-vertical-offset="1632">
+            <state line="49" column="57" selection-start="1005" selection-end="1005" vertical-scroll-proportion="3.9230769" vertical-offset="833" max-vertical-offset="1632">
               <folding />
             </state>
           </provider>
@@ -80,27 +68,43 @@
       <file leaf-file-name="Main.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Controller/Main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="22" selection-start="1408" selection-end="1408" vertical-scroll-proportion="-5.730769" vertical-offset="565" max-vertical-offset="2091">
-              <folding>
-                <element signature="e#345#394#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IndexController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/User/src/User/Controller/IndexController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="8" selection-start="1136" selection-end="1360" vertical-scroll-proportion="-11.0" vertical-offset="258" max-vertical-offset="1819">
+            <state line="59" column="18" selection-start="1930" selection-end="1930" vertical-scroll-proportion="-28.76923" vertical-offset="51" max-vertical-offset="1989">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MeetingUsers.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/School/view/school/main/index.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MeetingUsers.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="32" selection-start="154" selection-end="154" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="425">
+            <state line="19" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.2642369" vertical-offset="122" max-vertical-offset="1326">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/School/src/School/Controller/Main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="1" selection-start="607" selection-end="607" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="731">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/Application/view/layout/layout.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="10" selection-start="393" selection-end="393" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="1224">
               <folding />
             </state>
           </provider>
@@ -109,7 +113,7 @@
       <file leaf-file-name="School.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module/School/src/School/Entity/School.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="22" selection-start="56" selection-end="56" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="2363">
+            <state line="3" column="22" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="2363">
               <folding />
             </state>
           </provider>
@@ -179,13 +183,13 @@
         <option value="$PROJECT_DIR$/config/application.config.php" />
         <option value="$PROJECT_DIR$/module/School/src/School/Controller/Main.php" />
         <option value="$PROJECT_DIR$/module/School/view/school/main/index.phtml" />
-        <option value="$PROJECT_DIR$/module/Application/view/layout/layout.phtml" />
-        <option value="$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php" />
         <option value="$PROJECT_DIR$/module/User/src/User/Form/StudentForm.php" />
         <option value="$PROJECT_DIR$/module/Meeting/src/Meeting/Form/MeetingForm.php" />
         <option value="$PROJECT_DIR$/module/Meeting/src/Meeting/Controller/Main.php" />
         <option value="$PROJECT_DIR$/module/Meeting/view/meeting/main/index.phtml" />
+        <option value="$PROJECT_DIR$/module/Application/view/layout/layout.phtml" />
         <option value="$PROJECT_DIR$/module/User/view/user/index/index.phtml" />
+        <option value="$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php" />
       </list>
     </option>
   </component>
@@ -220,7 +224,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -423,6 +426,110 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="School" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="School" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="School" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="School" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="School" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="School" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lingvoguide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Meeting" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -565,6 +672,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -668,10 +776,9 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32421875" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28039515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28419453" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.327451" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -681,6 +788,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32421875" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884902" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -706,9 +814,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2654321" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -876,9 +984,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module/Meeting/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="15" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <folding />
-        </state>
+        <state line="0" column="15" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/Meeting/autoload_classmap.php">
@@ -910,16 +1016,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module/School/autoload_classmap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="2" selection-start="405" selection-end="405" vertical-scroll-proportion="0.27107063" vertical-offset="0" max-vertical-offset="439">
-          <folding />
-        </state>
+        <state line="7" column="2" selection-start="405" selection-end="405" vertical-scroll-proportion="0.27107063" vertical-offset="0" max-vertical-offset="439" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/School/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="299">
-          <folding />
-        </state>
+        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="299" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/School/Module.php">
@@ -933,28 +1035,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module/Meeting/config/module.config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="228" selection-end="228" vertical-scroll-proportion="-3.5" vertical-offset="62" max-vertical-offset="1190">
-          <folding />
-        </state>
+        <state line="9" column="13" selection-start="228" selection-end="228" vertical-scroll-proportion="-3.5" vertical-offset="62" max-vertical-offset="1190" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/School/config/module.config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="162" selection-end="162" vertical-scroll-proportion="0.2118451" vertical-offset="9" max-vertical-offset="1190">
-          <folding />
-        </state>
+        <state line="6" column="6" selection-start="162" selection-end="162" vertical-scroll-proportion="0.2118451" vertical-offset="9" max-vertical-offset="1190" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/Application/config/module.config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1734">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1734" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/application.config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="292" selection-end="292" vertical-scroll-proportion="0.4259681" vertical-offset="0" max-vertical-offset="1394">
+        <state line="11" column="0" selection-start="292" selection-end="292" vertical-scroll-proportion="0.4259681" vertical-offset="0" max-vertical-offset="1394" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/User/src/User/Controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="8" selection-start="1136" selection-end="1360" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1989">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/School/src/School/Entity/School.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="22" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="2363">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Meeting/view/meeting/main/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="21" selection-start="317" selection-end="317" vertical-scroll-proportion="-3.2692308" vertical-offset="51" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Application/view/layout/layout.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="10" selection-start="393" selection-end="393" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/User/view/user/index/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="24" selection-start="1237" selection-end="1237" vertical-scroll-proportion="0.4259681" vertical-offset="306" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/Meeting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="24" selection-start="395" selection-end="395" vertical-scroll-proportion="3.2692308" vertical-offset="391" max-vertical-offset="3791">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Form/MeetingForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="0" selection-start="2793" selection-end="2793" vertical-scroll-proportion="-49.692307" vertical-offset="391" max-vertical-offset="2686">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/User/src/User/Form/StudentForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="57" selection-start="1005" selection-end="1005" vertical-scroll-proportion="3.9230769" vertical-offset="833" max-vertical-offset="1632">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Controller/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="18" selection-start="1930" selection-end="1930" vertical-scroll-proportion="-28.76923" vertical-offset="51" max-vertical-offset="1989">
           <folding />
         </state>
       </provider>
@@ -966,81 +1123,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/Application/view/layout/layout.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="59" selection-start="2686" selection-end="2686" vertical-scroll-proportion="0.63615024" vertical-offset="494" max-vertical-offset="1156">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module/School/src/School/Controller/Main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="5" selection-start="722" selection-end="722" vertical-scroll-proportion="0.5808656" vertical-offset="0" max-vertical-offset="731">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/User/src/User/Form/StudentForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="57" selection-start="1005" selection-end="1005" vertical-scroll-proportion="-4.269231" vertical-offset="620" max-vertical-offset="1632">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Form/MeetingForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="14" selection-start="2359" selection-end="2359" vertical-scroll-proportion="-0.65384614" vertical-offset="1445" max-vertical-offset="2686">
+        <state line="19" column="1" selection-start="607" selection-end="607" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="731">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="32" selection-start="154" selection-end="154" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/User/src/User/Controller/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="8" selection-start="1136" selection-end="1360" vertical-scroll-proportion="-11.0" vertical-offset="258" max-vertical-offset="1819">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Controller/Main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="22" selection-start="1408" selection-end="1408" vertical-scroll-proportion="-5.730769" vertical-offset="565" max-vertical-offset="2091">
-          <folding>
-            <element signature="e#345#394#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/School/src/School/Entity/School.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="56" selection-end="56" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="2363">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/Meeting.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="24" selection-start="395" selection-end="395" vertical-scroll-proportion="-3.7307692" vertical-offset="209" max-vertical-offset="3791">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Meeting/view/meeting/main/index.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="36" selection-start="236" selection-end="236" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="850">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/User/view/user/index/index.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="10" selection-start="1329" selection-end="1329" vertical-scroll-proportion="0.61275625" vertical-offset="241" max-vertical-offset="748">
+        <state line="19" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.2642369" vertical-offset="122" max-vertical-offset="1326">
           <folding />
         </state>
       </provider>
