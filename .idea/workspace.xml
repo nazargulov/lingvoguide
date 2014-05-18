@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="959f90b7-ecec-4b43-867b-e18eb78a8633" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php" afterPath="$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/Meeting/view/meeting/main/index.phtml" afterPath="$PROJECT_DIR$/module/Meeting/view/meeting/main/index.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/User/view/user/index/index.phtml" afterPath="$PROJECT_DIR$/module/User/view/user/index/index.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/Application/view/layout/layout.phtml" afterPath="$PROJECT_DIR$/module/Application/view/layout/layout.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lingvoguide.iws" />
@@ -32,7 +29,7 @@
       <file leaf-file-name="Meeting.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/Meeting.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="24" selection-start="395" selection-end="395" vertical-scroll-proportion="3.2692308" vertical-offset="391" max-vertical-offset="3791">
+            <state line="34" column="4" selection-start="586" selection-end="647" vertical-scroll-proportion="-3.9230769" vertical-offset="391" max-vertical-offset="3791">
               <folding />
             </state>
           </provider>
@@ -86,7 +83,7 @@
       <file leaf-file-name="MeetingUsers.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.2642369" vertical-offset="122" max-vertical-offset="1326">
+            <state line="27" column="7" selection-start="505" selection-end="505" vertical-scroll-proportion="0.5740319" vertical-offset="122" max-vertical-offset="1326">
               <folding />
             </state>
           </provider>
@@ -1067,13 +1064,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/Meeting/view/meeting/main/index.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="21" selection-start="317" selection-end="317" vertical-scroll-proportion="-3.2692308" vertical-offset="51" max-vertical-offset="850">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module/Application/view/layout/layout.phtml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="10" selection-start="393" selection-end="393" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="1224">
@@ -1084,13 +1074,6 @@
     <entry file="file://$PROJECT_DIR$/module/User/view/user/index/index.phtml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="24" selection-start="1237" selection-end="1237" vertical-scroll-proportion="0.4259681" vertical-offset="306" max-vertical-offset="748">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/Meeting.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="24" selection-start="395" selection-end="395" vertical-scroll-proportion="3.2692308" vertical-offset="391" max-vertical-offset="3791">
           <folding />
         </state>
       </provider>
@@ -1130,9 +1113,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/module/Meeting/view/meeting/main/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="21" selection-start="317" selection-end="317" vertical-scroll-proportion="-3.2692308" vertical-offset="51" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/Meeting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="4" selection-start="586" selection-end="647" vertical-scroll-proportion="-3.9230769" vertical-offset="391" max-vertical-offset="3791">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/module/Meeting/src/Meeting/Entity/MeetingUsers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.2642369" vertical-offset="122" max-vertical-offset="1326">
+        <state line="27" column="7" selection-start="505" selection-end="505" vertical-scroll-proportion="0.5740319" vertical-offset="122" max-vertical-offset="1326">
           <folding />
         </state>
       </provider>

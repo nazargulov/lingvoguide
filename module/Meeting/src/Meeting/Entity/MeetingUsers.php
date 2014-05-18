@@ -24,7 +24,7 @@ class MeetingUsers {
     protected $userId;
 
     /**
-     * @ORM@Column(type="datetime", options={"default"="CURRENT_TIMESTAMP"})
+     * @ORM\Column(type="datetime", options={"default"="CURRENT_TIMESTAMP"})
      */
     protected $time;
 
